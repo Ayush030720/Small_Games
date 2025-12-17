@@ -1,1 +1,1 @@
-# Smaill_Games
+# tiny_Games
